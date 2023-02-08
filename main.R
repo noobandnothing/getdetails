@@ -1,0 +1,3 @@
+source('func.R')
+ 
+main()
